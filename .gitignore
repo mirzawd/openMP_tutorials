@@ -27,4 +27,7 @@ someOtherfoler/
 *.tar
 *.zip
 
-
+# for extensionless files
+*
+!*.*
+!*/
